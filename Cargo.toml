@@ -1,5 +1,5 @@
 [package]
-name = "hash-based-signatures-webapp"
+name = "hash-based-signatures-wasm"
 version = "0.1.0"
 authors = ["Georg Wiese <georgwiese@gmail.com>"]
 description = "A sample project with wasm-pack"
